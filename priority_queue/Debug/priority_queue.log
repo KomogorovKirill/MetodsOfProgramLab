@@ -1,0 +1,21 @@
+﻿  test-queue.cpp
+C:\Users\Admin\Рабочий стол\priority_queue\test-queue.cpp(10,8): error C2672: "priority_queue::insertElement": не найдена соответствующая перегруженная функция
+C:\Users\Admin\Рабочий стол\priority_queue\test-queue.cpp(10,34): error C2784: void priority_queue::insertElement(Container<U> &,T): не удалось вывести аргумент шаблон для "Container<U> &" из "std::vector<int,std::allocator<int>>"
+C:\Users\Admin\Рабочий стол\priority_queue\priority-queue.h(32): message : см. объявление "priority_queue::insertElement"
+C:\Users\Admin\Рабочий стол\priority_queue\test-queue.cpp(11,8): error C2672: "priority_queue::insertElement": не найдена соответствующая перегруженная функция
+C:\Users\Admin\Рабочий стол\priority_queue\test-queue.cpp(11,34): error C2784: void priority_queue::insertElement(Container<U> &,T): не удалось вывести аргумент шаблон для "Container<U> &" из "std::vector<int,std::allocator<int>>"
+C:\Users\Admin\Рабочий стол\priority_queue\priority-queue.h(32): message : см. объявление "priority_queue::insertElement"
+C:\Users\Admin\Рабочий стол\priority_queue\test-queue.cpp(12,8): error C2672: "priority_queue::insertElement": не найдена соответствующая перегруженная функция
+C:\Users\Admin\Рабочий стол\priority_queue\test-queue.cpp(12,34): error C2784: void priority_queue::insertElement(Container<U> &,T): не удалось вывести аргумент шаблон для "Container<U> &" из "std::vector<int,std::allocator<int>>"
+C:\Users\Admin\Рабочий стол\priority_queue\priority-queue.h(32): message : см. объявление "priority_queue::insertElement"
+C:\Users\Admin\Рабочий стол\priority_queue\test-queue.cpp(13,8): error C2672: "priority_queue::insertElement": не найдена соответствующая перегруженная функция
+C:\Users\Admin\Рабочий стол\priority_queue\test-queue.cpp(13,34): error C2784: void priority_queue::insertElement(Container<U> &,T): не удалось вывести аргумент шаблон для "Container<U> &" из "std::vector<int,std::allocator<int>>"
+C:\Users\Admin\Рабочий стол\priority_queue\priority-queue.h(32): message : см. объявление "priority_queue::insertElement"
+C:\Users\Admin\Рабочий стол\priority_queue\test-queue.cpp(14,8): error C2672: "priority_queue::insertElement": не найдена соответствующая перегруженная функция
+C:\Users\Admin\Рабочий стол\priority_queue\test-queue.cpp(14,34): error C2784: void priority_queue::insertElement(Container<U> &,T): не удалось вывести аргумент шаблон для "Container<U> &" из "std::vector<int,std::allocator<int>>"
+C:\Users\Admin\Рабочий стол\priority_queue\priority-queue.h(32): message : см. объявление "priority_queue::insertElement"
+C:\Users\Admin\Рабочий стол\priority_queue\test-queue.cpp(15,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Рабочий стол\priority_queue\test-queue.cpp(18,8): error C2672: "priority_queue::removeElement": не найдена соответствующая перегруженная функция
+C:\Users\Admin\Рабочий стол\priority_queue\test-queue.cpp(18,34): error C2784: void priority_queue::removeElement(Container<U> &,T): не удалось вывести аргумент шаблон для "Container<U> &" из "std::vector<int,std::allocator<int>>"
+C:\Users\Admin\Рабочий стол\priority_queue\priority-queue.h(48): message : см. объявление "priority_queue::removeElement"
+C:\Users\Admin\Рабочий стол\priority_queue\test-queue.cpp(19,20): warning C4018: <: несоответствие типов со знаком и без знака

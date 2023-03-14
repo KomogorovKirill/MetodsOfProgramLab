@@ -1,0 +1,44 @@
+﻿  test-queue.cpp
+C:\Users\Admin\Рабочий стол\priority_queue\priority-queue.h(74,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Рабочий стол\priority_queue\priority-queue.h(73): message : во время компиляции функции-члена класс шаблон "int priority_queue<int,std::vector,int>::getQueueSize(void)"
+C:\Users\Admin\Рабочий стол\priority_queue\test-queue.cpp(20): message : выполняется компиляция ссылки на экземпляр шаблон функции "int priority_queue<int,std::vector,int>::getQueueSize(void)"
+C:\Users\Admin\Рабочий стол\priority_queue\test-queue.cpp(9): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "priority_queue<int,std::vector,int>"
+C:\Users\Admin\Рабочий стол\priority_queue\priority-queue.h(50,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Рабочий стол\priority_queue\priority-queue.h(48): message : во время компиляции функции-члена класс шаблон "void priority_queue<int,std::vector,int>::removeElement(T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\Рабочий стол\priority_queue\test-queue.cpp(16): message : выполняется компиляция ссылки на экземпляр шаблон функции "void priority_queue<int,std::vector,int>::removeElement(T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\Рабочий стол\priority_queue\priority-queue.h(34,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Рабочий стол\priority_queue\priority-queue.h(33): message : во время компиляции функции-члена класс шаблон "void priority_queue<int,std::vector,int>::insertElement(T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\Рабочий стол\priority_queue\test-queue.cpp(10): message : выполняется компиляция ссылки на экземпляр шаблон функции "void priority_queue<int,std::vector,int>::insertElement(T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\Рабочий стол\priority_queue\priority-queue.h(13,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Admin\Рабочий стол\priority_queue\priority-queue.h(11): message : во время компиляции функции-члена класс шаблон "void priority_queue<int,std::vector,int>::heapify(T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\Admin\Рабочий стол\priority_queue\priority-queue.h(59): message : выполняется компиляция ссылки на экземпляр шаблон функции "void priority_queue<int,std::vector,int>::heapify(T)"
+          with
+          [
+              T=int
+          ]
+  Создание кода
+  1 of 94 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  priority_queue.vcxproj -> C:\Users\Admin\Рабочий стол\priority_queue\x64\Release\priority_queue.exe
